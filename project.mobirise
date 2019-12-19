@@ -1,0 +1,246 @@
+{
+  "settings": {
+    "name": "Site-12-19_1810",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore-Rus",
+      "styling": {
+        "primaryColor": "#ff5722",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Poiret One",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.6",
+    "siteFonts": [
+      {
+        "css": "'Poiret One', display",
+        "name": "Poiret One",
+        "url": "https://fonts.googleapis.com/css?family=Poiret+One:400"
+      }
+    ],
+    "uniqCompNum": 4,
+    "versionPublish": "4.11.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "fullWidth": true,
+            "filter": false,
+            "paddingTop": 0,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/ezgif-7-e9e667da3183.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/ezgif-7-e9e667da3183.gif",
+                "caption": "Введите подпись здесь",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2.jpg",
+                "caption": "Введите подпись здесь"
+              },
+              {
+                "tags": "Responsive",
+                "image": "@PROJECT_PATH@/assets/images/3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3.jpg",
+                "caption": "Введите подпись здесь"
+              },
+              {
+                "tags": "Creative",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4.jpg",
+                "caption": "Введите подпись здесь"
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5.jpg",
+                "caption": "Введите подпись здесь"
+              },
+              {
+                "tags": "Beautiful",
+                "image": "@PROJECT_PATH@/assets/images/6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6.jpg",
+                "caption": "Введите подпись здесь"
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7.jpg",
+                "caption": "Введите подпись здесь"
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8.jpg",
+                "caption": "Введите подпись здесь"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showButtons": true,
+            "animType": "gorizontal",
+            "image1": "@PROJECT_PATH@/assets/images/comp-1.gif",
+            "image2": "@PROJECT_PATH@/assets/images/ezgif-7-e9e667da3183.gif",
+            "image3": "@PROJECT_PATH@/assets/images/336.jpg",
+            "image4": "@PROJECT_PATH@/assets/images/437.jpg",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "HORIZONTAL / VERTICAL FLIP",
+          "title1": "<strong>Flip Animation</strong>",
+          "title2": "<strong>Flip Animation</strong>",
+          "title3": "<strong>Flip Animation</strong>",
+          "title4": "<strong>Flip Animation</strong>",
+          "text1": "Lorem Ipsum as the default will uncover many web sites still in their infancy versions have evolved over years.",
+          "text2": "Lorem Ipsum as the default will uncover many web sites still in their infancy versions have evolved over years.",
+          "text3": "Lorem Ipsum as the default will uncover many web sites still in their infancy versions have evolved over years.",
+          "text4": "Lorem Ipsum as the default will uncover many web sites still in their infancy versions have evolved over years.",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-primary\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-primary\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-primary\"><i class=\"fa fa-paper-plane\"></i>&nbsp; Read more</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features10",
+          "_anchor": "features10-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "Наша Команда",
+          "subheader": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/comp-1.gif",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "Joseph Doe",
+          "subtitle1": "Founder",
+          "caption1": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/238.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "Maria Wade",
+          "subtitle2": "Reception",
+          "caption2": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/339.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "David Mach",
+          "subtitle3": "Sales Team",
+          "caption3": "Sed ut unde omnis iste natus error sit accus antium dolor emque laudantium.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-3"
+        }
+      ]
+    }
+  }
+}
